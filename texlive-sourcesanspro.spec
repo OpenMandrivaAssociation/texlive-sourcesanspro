@@ -6,7 +6,7 @@
 # catalog-version 2.2
 Name:		texlive-sourcesanspro
 Version:	2.2
-Release:	3
+Release:	4
 Summary:	Use SourceSansPro with TeX(-alike) systems
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/sourcesanspro
