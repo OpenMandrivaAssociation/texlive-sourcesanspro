@@ -1,6 +1,6 @@
 Name:		texlive-sourcesanspro
 Version:	54892
-Release:	1
+Release:	2
 Summary:	Use SourceSansPro with TeX(-alike) systems
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/sourcesanspro
