@@ -3,7 +3,7 @@ Version:	54892
 Release:	2
 Summary:	Use SourceSansPro with TeX(-alike) systems
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/sourcesanspro
+URL:		https://www.ctan.org/tex-archive/fonts/sourcesanspro
 License:	OFL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sourcesanspro.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sourcesanspro.doc.r%{version}.tar.xz
